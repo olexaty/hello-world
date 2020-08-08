@@ -1,2 +1,5 @@
 # hello-world
-Just the first repository
+
+Hey there!
+This is just me setting up and learning about repositories, branches, commits and more!
+
